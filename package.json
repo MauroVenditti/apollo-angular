@@ -1,6 +1,7 @@
 {
-  "name": "apollo-angular-monorepo",
+  "name": "apollo-angular-mtc",
   "private": false,
+  "version": "4.0.2",
   "license": "MIT",
   "engines": {
     "node": ">=14"
